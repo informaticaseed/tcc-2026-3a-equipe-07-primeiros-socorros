@@ -9,7 +9,7 @@
 |--------------|--------|-------|
 | Giovanna Monteiro Gondim | @giovannamgondimmaker- | 3A |
 | Thayla kauanne Souza Nascimento | @thaylakauanne14 | 3A |
-| Lucas Lima | @username | 3A |
+| Lucas Lima de Sousa | @username | 3A |
 
 **Tema:** Sistema de Orientação de Primeiros Socorros para Situações de Emergência
 **Tecnologia:** Python + Flask + SQLite
