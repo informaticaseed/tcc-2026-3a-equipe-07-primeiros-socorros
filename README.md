@@ -1,4 +1,4 @@
-# TCC 2026 — [Nome do Grupo]
+# TCC 2026 — [Equipe 07]
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
 
 ---
@@ -7,18 +7,18 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
-| (nome 2) | @username | 3A |
-| (nome 3) | @username | 3A |
+| Giovanna Monteiro Gondim | @giovannamgondimmaker- | 3A |
+| Thayla kauanne Souza Nascimento | @thaylakauanne14 | 3A |
+| Lucas Lima | @username | 3A |
 
-**Tema:** (escreva aqui em 1 frase)
+**Tema:** Sistema de Orientação de Primeiros Socorros para Situações de Emergência
 **Tecnologia:** Python + Flask + SQLite
 
 ---
 
 ## 🎯 O que o sistema faz
 
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
+O sistema fornece orientações básicas de primeiros socorros para pessoas que precisam agir rapidamente em situações de emergência. Ele apresenta informações sobre diferentes tipos de acidentes e ajuda usuários sem conhecimento técnico a encontrar instruções iniciais de forma simples e rápida.
 
 ---
 
