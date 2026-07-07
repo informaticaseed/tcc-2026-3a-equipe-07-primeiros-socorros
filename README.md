@@ -20,7 +20,17 @@
 
 O sistema fornece orientações básicas de primeiros socorros para pessoas que precisam agir rapidamente em situações de emergência. Ele apresenta informações sobre diferentes tipos de acidentes e ajuda usuários sem conhecimento técnico a encontrar instruções iniciais de forma simples e rápida.
 
----
+-## Funcionalidades
+
+- Orientações para diferentes tipos de acidentes e emergências.
+- Interface simples e de fácil navegação.
+- Informações organizadas para facilitar a consulta.
+- Armazenamento dos dados em banco SQLite.
+- Possibilidade de expansão para incluir novas situações de emergência.
+- ## Objetivo
+
+O sistema foi desenvolvido para ajudar pessoas a encontrarem orientações básicas de primeiros socorros em situações de emergência. O objetivo é fornecer informações claras e rápidas até que o atendimento profissional possa ser realizado.
+
 
 ## 🔄 Como o grupo trabalha toda semana
 
