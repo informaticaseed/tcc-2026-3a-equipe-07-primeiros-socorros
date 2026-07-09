@@ -1,8 +1,7 @@
 1. O que é uma Issue e para que serve no desenvolvimento de software?
 2. Uma Issue é um recurso utilizado para registrar problemas,
 3. tarefas, sugestões ou melhorias em um projeto de software.
-4. Ela permite que a equipe acompanhe as atividades, defina responsáveis
-5. e controle o andamento de cada demanda.
+4. Ela permite que a equipe acompanhe as atividades, defina responsáveise controle o andamento de cada demanda.
 6. Dessa forma, o desenvolvimento se torna mais organizado, eficiente e colaborativo.
  
 2. O que é um Pull Request e por que ele é importante?
@@ -22,7 +21,7 @@ Neste bimestre, deixei de entregar algumas atividades dentro do prazo e particip
 Tive dificuldades para organizar meu tempo e acompanhar todas as tarefas.
 Reconheço que isso prejudicou meu desempenho. Na recuperação,
 vou cumprir todas as atividades para melhorar minha nota e meu aprendizado.
-
+ 
 5. Plano para o 3º bimestre
 Entregar todas as atividades dentro do prazo.
 Participar mais do desenvolvimento do projeto e fazer commits com frequência.
