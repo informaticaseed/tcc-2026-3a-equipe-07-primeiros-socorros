@@ -9,7 +9,7 @@
 Um Pull Request é um pedido para que as alterações feitas em uma branch sejam analisadas e adicionadas ao projeto principal.
 Ele é importante porque permite revisar o código antes do merge,
 evitando erros e melhorando a qualidade do projeto.
-
+ 
 3. O que é separação de camadas no código?
 A separação de camadas é uma forma de organizar o código,
 dividindo cada parte do sistema por responsabilidade.
