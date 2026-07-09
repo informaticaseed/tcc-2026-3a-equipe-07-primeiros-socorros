@@ -22,7 +22,7 @@ Neste bimestre, deixei de entregar algumas atividades dentro do prazo e particip
 Tive dificuldades para organizar meu tempo e acompanhar todas as tarefas.
 Reconheço que isso prejudicou meu desempenho. Na recuperação,
 vou cumprir todas as atividades para melhorar minha nota e meu aprendizado.
-
+ 
 5. Plano para o 3º bimestre
 Entregar todas as atividades dentro do prazo.
 Participar mais do desenvolvimento do projeto e fazer commits com frequência.
