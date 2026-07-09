@@ -9,14 +9,14 @@
 Um Pull Request é um pedido para que as alterações feitas em uma branch sejam analisadas e adicionadas ao projeto principal.
 Ele é importante porque permite revisar o código antes do merge,
 evitando erros e melhorando a qualidade do projeto.
-
+ 
 3. O que é separação de camadas no código?
 A separação de camadas é uma forma de organizar o código,
 dividindo cada parte do sistema por responsabilidade.
 O arquivo app.py normalmente cuida da inicialização e das rotas da aplicação,
 enquanto repositorio.py é responsável pelo acesso e manipulação dos dados.
 Essa organização facilita a manutenção, os testes e a leitura do código.
-
+ 
 4. O que você deixou de fazer neste bimestre e por quê?
 Neste bimestre, deixei de entregar algumas atividades dentro do prazo e participei menos do projeto do que deveria.
 Tive dificuldades para organizar meu tempo e acompanhar todas as tarefas.
