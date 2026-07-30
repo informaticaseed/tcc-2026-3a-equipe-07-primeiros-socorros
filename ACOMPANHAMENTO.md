@@ -1,7 +1,7 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Primeiros Socorros
+**Turma:** 3A
+
 
 ---
 
@@ -11,9 +11,17 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Lucas Lima | - Site: terminar a tela de cadastro - Migrar para o wordpress |
+| Thayla | - Terminar relatório: colocar mais dados ambulâncias, fazer o diagrama de caso de uso |
+| Giovanna | - Melhorar a logo - Passo a passo da explicação do aplicativo |
+
+Backlog:
+- Pegar dados das ambulâncias 
+- Melhorar a logo
+- Terminar relatório
+- Site: terminar a tela de cadastro
+- Migrar para o wordpress
+- Passo a passo da explicação do aplicativo
 
 ### Verificação em 08/08
 
