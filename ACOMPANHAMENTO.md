@@ -38,13 +38,16 @@ Backlog:
 
 ## Quinzena 2 — 10/08 a 22/08
 
-### Compromissos assumidos em 10/08
+### Compromissos assumidos em 13/08
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Lucas Lima | - Site: XX - Ensinar wordpress |
+| Thayla | - Terminar relatório: levantamento dos requisitos e fazer o diagrama de caso de uso e acompanhar o desenvolvimento do site - Aprender o wordpress|
+| Giovanna | - Finalizar os gifs - Passar para o Lucas os gifs - Atualizar o cronograma - Ensinar wordpress |
+
+backlog:
+- Melhorar a logo 
 
 ### Verificação em 22/08
 
