@@ -1,0 +1,81 @@
+
+elatório de Desenvolvimento do Projeto – Equipe 7
+
+Este relatório apresenta as atividades desenvolvidas pela Equipe 7 desde o dia 18 de março até a presente data. O projeto tem como tema principal o desenvolvimento de um aplicativo voltado para o auxílio em situações de emergência, oferecendo orientações de primeiros socorros e suporte inicial às vítimas até a chegada do atendimento profissional. Ao longo desse período, a equipe realizou pesquisas, definiu objetivos, organizou a estrutura do sistema, desenvolveu protótipos e iniciou a implementação das principais funcionalidades do aplicativo.
+
+Objetivo Geral
+
+O objetivo geral do projeto é desenvolver um aplicativo capaz de auxiliar pessoas em situações de emergência, fornecendo suporte rápido, acessível e confiável para a realização de primeiros socorros enquanto o atendimento médico especializado não chega ao local. A proposta busca oferecer uma ferramenta prática e eficiente, capaz de orientar os usuários de forma simples em momentos de pressão e desespero, contribuindo para a preservação da vida e para a redução de complicações causadas pela demora no atendimento inicial.
+
+Objetivos Específicos
+
+Entre os objetivos específicos do projeto destacam-se:
+
+- Desenvolver uma interface simples, intuitiva e de fácil utilização.
+- Possibilitar o acionamento rápido de serviços de emergência, como o SAMU.
+- Disponibilizar orientações passo a passo sobre procedimentos básicos de primeiros socorros.
+- Auxiliar usuários em situações como queimaduras, engasgos, desmaios, hemorragias e paradas cardiorrespiratórias.
+- Conscientizar a população sobre a importância dos primeiros socorros.
+- Democratizar o acesso a informações confiáveis relacionadas à saúde e ao atendimento emergencial.
+
+Justificativa
+
+A justificativa do projeto está relacionada ao grande número de vítimas que podem ter seu estado de saúde agravado devido à demora no atendimento ou à falta de conhecimento das pessoas presentes no local da ocorrência sobre como agir corretamente. Em muitas situações, os primeiros minutos após um acidente são importantes para iniciar o atendimento adequado e evitar o agravamento do quadro da vítima. Entretanto, boa parte da população não possui treinamento adequado em primeiros socorros, o que dificulta a prestação de ajuda imediata.
+
+Dessa forma, o aplicativo surge como uma solução tecnológica acessível, capaz de orientar os usuários durante situações de emergência e fornecer informações básicas de primeiros socorros até a chegada dos profissionais de saúde.
+
+Hipótese
+
+A hipótese levantada pela equipe é a de que a falta de conhecimento sobre primeiros socorros e a demora no atendimento profissional podem contribuir para o agravamento de situações de emergência. Acredita-se que, ao fornecer instruções rápidas, objetivas e de fácil compreensão por meio de um aplicativo, será possível auxiliar a população a realizar os procedimentos iniciais de maneira mais adequada enquanto aguarda a chegada do atendimento especializado.
+
+Atividades Desenvolvidas
+
+Durante o período de desenvolvimento, a equipe iniciou os trabalhos com a criação e organização das pastas do sistema, visando estruturar corretamente os códigos e facilitar a divisão das tarefas entre os integrantes. Essa etapa foi fundamental para garantir maior organização no desenvolvimento do aplicativo, permitindo melhor controle das funções, arquivos e futuras implementações.
+
+Também foram realizadas pesquisas sobre primeiros socorros, análise de aplicativos semelhantes e levantamento das principais necessidades que o sistema deverá atender.
+
+Após conversas com a professora orientadora, a equipe decidiu realizar uma mudança na plataforma de desenvolvimento do aplicativo. Inicialmente, o sistema estava sendo desenvolvido utilizando a plataforma Lovable, porém, atualmente, a equipe está realizando a implementação do aplicativo na plataforma WordPress. Para facilitar esse processo, os testes e experimentações das funcionalidades continuam sendo realizados inicialmente no Lovable. Após a validação e os ajustes necessários, as funcionalidades são adaptadas e transferidas para a nova estrutura desenvolvida em WordPress.
+
+Essa estratégia permite que a equipe teste previamente as funcionalidades e identifique possíveis problemas antes de implementá-las definitivamente no sistema principal.
+
+A equipe também elaborou o diagrama do projeto, representando a estrutura e o funcionamento do sistema. Essa etapa contribuiu para uma melhor compreensão da organização do aplicativo e para o planejamento da comunicação entre suas diferentes partes.
+
+Outra etapa iniciada foi a implementação dos GIFs que serão utilizados no aplicativo para demonstrar visualmente a realização de determinadas manobras de primeiros socorros. Até o momento, foram produzidos dois GIFs, utilizados principalmente como testes para avaliar qual formato, estilo e maneira de apresentação funcionariam melhor dentro do aplicativo. Após a definição do modelo que melhor se adapta ao sistema, a equipe dará continuidade à produção dos demais GIFs e à sua implementação no aplicativo.
+
+A equipe também está trabalhando na criação da logomarca do projeto. O processo ainda está em desenvolvimento, pois os integrantes estão buscando uma identidade visual que represente melhor a proposta do aplicativo e tenha características que estejam de acordo com a identidade da própria equipe. Embora essa etapa ainda não esteja finalizada, a equipe pretende concluir a logo em breve. No momento, está sendo dada maior atenção às funcionalidades e às partes consideradas prioritárias para o funcionamento do aplicativo, deixando o desenvolvimento da identidade visual para ser finalizado posteriormente.
+
+Além disso, a equipe está mantendo o projeto constantemente atualizado, acompanhando o cronograma e organizando as atividades de desenvolvimento. O objetivo é chegar à Feira de Tecnologia, prevista para outubro, com o aplicativo em um estágio avançado e, sempre que possível, com o sistema pronto para apresentação e demonstração ao público.
+
+Próximas Etapas
+
+Nas próximas semanas, a equipe dará continuidade ao desenvolvimento do projeto por meio das seguintes atividades:
+
+- Continuação da implementação e dos testes do aplicativo na plataforma WordPress.
+- Realização de testes prévios no Lovable para validar novas funcionalidades antes de sua implementação definitiva.
+- Finalização da logomarca e da identidade visual do projeto.
+- Planejamento e definição do layout das telas e da experiência do usuário.
+- Construção e implementação do banco de dados do sistema.
+- Produção dos demais GIFs explicativos após a definição do modelo visual mais adequado.
+- Implementação dos GIFs no aplicativo.
+- Continuação das melhorias e correções no sistema.
+- Atualização constante do projeto de acordo com o cronograma estabelecido.
+- Aprofundamento da fundamentação teórica e da metodologia.
+- Continuação das pesquisas relacionadas aos primeiros socorros e aos procedimentos de emergência.
+- Realização de visitas ao Corpo de Bombeiros e a hospitais durante o período de férias, buscando obter informações e orientações de profissionais da área.
+- Preparação do aplicativo para a apresentação na Feira de Tecnologia em outubro.
+
+Durante o período de férias, a equipe pretende realizar visitas ao Corpo de Bombeiros e a hospitais da região com o objetivo de aprofundar as pesquisas relacionadas aos procedimentos de emergência e validar informações importantes para o aplicativo. Essas visitas contribuirão para aumentar a confiabilidade das informações disponibilizadas no sistema.
+
+Atualmente, a fundamentação teórica e a metodologia do projeto ainda se encontram em fase inicial de desenvolvimento, contendo informações mais superficiais. A equipe reconhece a necessidade de aprofundar essas etapas e pretende utilizar as próximas semanas para ampliar as pesquisas bibliográficas e buscar informações junto a profissionais da área de saúde e atendimento emergencial.
+
+Paralelamente, a equipe continuará trabalhando no layout e na organização visual do aplicativo, buscando desenvolver uma interface intuitiva, organizada e adequada para situações de emergência. A prioridade será garantir que as principais informações possam ser encontradas de maneira rápida e compreensível pelo usuário.
+
+Conclusão
+
+Conclui-se que o projeto apresenta grande relevância social, considerando sua proposta de auxiliar pessoas em situações de emergência por meio da tecnologia e do acesso facilitado a informações de primeiros socorros. O aplicativo busca unir tecnologia, acessibilidade e informação para oferecer suporte inicial à população até a chegada do atendimento profissional.
+
+Durante o desenvolvimento, a equipe realizou mudanças importantes na estrutura do projeto, principalmente com a transferência do desenvolvimento para a plataforma WordPress e a utilização do Lovable como ambiente de testes e prototipação. Também foram desenvolvidos o diagrama do sistema e os primeiros GIFs que serão utilizados para demonstrar visualmente as manobras de primeiros socorros.
+
+Apesar de algumas etapas, como a identidade visual, a fundamentação teórica e a metodologia, ainda estarem em desenvolvimento, a equipe está avançando de acordo com o cronograma e mantendo o projeto constantemente atualizado. O foco atual está principalmente no funcionamento do sistema, na implementação das funcionalidades essenciais e na organização da estrutura do aplicativo.
+
+Com a aproximação da Feira de Tecnologia, prevista para outubro, a equipe pretende intensificar o desenvolvimento e os testes para apresentar um aplicativo em estágio avançado, funcional e preparado para demonstrar sua proposta ao público. As próximas etapas estarão concentradas na finalização das funcionalidades, implementação do banco de dados, produção dos GIFs, organização do layout, conclusão da identidade visual e aprofundamento das pesquisas, buscando entregar um projeto cada vez mais completo e confiável.
